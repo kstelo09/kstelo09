@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kstelo09
 - 👀 I’m interested in technology,data science, algorithms, etc..
-- 🌱 I’m currently learning IA and Cloud-Computing
+- 🌱 I’m currently learning MachineLearning and video game development in HTML with JavaScript
 - 💞️ I’m looking to collaborate with any company dedicated to the technology sector
 - 📫 How to reach me .. https://www.linkedin.com/in/juan-castelo-406330a3/
 
